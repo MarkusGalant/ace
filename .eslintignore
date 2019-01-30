@@ -3,6 +3,7 @@ lib/ace/mode/coffee/*
 lib/ace/mode/html/*
 lib/ace/mode/javascript/*
 lib/ace/mode/json/*
+lib/ace/mode/jsonc/*
 lib/ace/mode/lua/*
 lib/ace/mode/php/*
 lib/ace/mode/xml/*
